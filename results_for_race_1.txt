@@ -1,0 +1,9 @@
+PLACE     NAME                     TEAM                     TIME           DIFF           POINTS
+------------------------------------------------------------------------------------------------
+1         Jenson Button            Williams-BMW             1:17.606                      25    
+2         Heinz-Harald Frentzen    Jordan-Mugen-Honda       1:17.690       +0:00.084      18    
+3         Mika Salo                Sauber-Petronas          1:18.435       +0:00.829      15    
+4         Jacques Villeneuve       BAR-Honda                1:18.795       +0:01.189      12    
+5         Mika Hakkinen            Mclaren-Mercedes         1:19.694       +0:02.088      10    
+6         David Coulthard          Mclaren-Mercedes         1:20.297       +0:02.691      8     
+7         Pedro de la Rosa         Arrows-Supertec          1:22.601       +0:04.995      6     

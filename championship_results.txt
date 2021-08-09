@@ -1,0 +1,9 @@
+PLACE     NAME                     TEAM                     POINTS
+------------------------------------------------------------------
+1         Jenson Button            Williams-BMW             50    
+2         Heinz-Harald Frentzen    Jordan-Mugen-Honda       45    
+3         David Coulthard          Mclaren-Mercedes         45    
+4         Mika Salo                Sauber-Petronas          43    
+5         Mika Hakkinen            Mclaren-Mercedes         41    
+6         Pedro de la Rosa         Arrows-Supertec          30    
+7         Jacques Villeneuve       BAR-Honda                28    

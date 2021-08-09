@@ -1,0 +1,21 @@
+Mika Hakkinen  Mclaren-Mercedes   79694  1
+David Coulthard  Mclaren-Mercedes   80297  1
+Heinz-Harald Frentzen  Jordan-Mugen-Honda   77690  1
+Jacques Villeneuve  BAR-Honda   78795  1
+Jenson Button  Williams-BMW   77606  1
+Mika Salo  Sauber-Petronas   78435  1
+Pedro de la Rosa  Arrows-Supertec   82601  1
+Mika Hakkinen  Mclaren-Mercedes   84981  1
+David Coulthard  Mclaren-Mercedes   77522  1
+Heinz-Harald Frentzen  Jordan-Mugen-Honda   81516  1
+Jacques Villeneuve  BAR-Honda   84254  1
+Jenson Button  Williams-BMW   79459  1
+Mika Salo  Sauber-Petronas   81565  1
+Pedro de la Rosa  Arrows-Supertec   79061  1
+Mika Hakkinen  Mclaren-Mercedes   78831  1
+David Coulthard  Mclaren-Mercedes   80498  1
+Heinz-Harald Frentzen  Jordan-Mugen-Honda   80251  1
+Jacques Villeneuve  BAR-Honda   82018  1
+Jenson Button  Williams-BMW   81899  1
+Mika Salo  Sauber-Petronas   78907  1
+Pedro de la Rosa  Arrows-Supertec   83315  1
